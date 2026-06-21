@@ -41,3 +41,7 @@ test/fixtures/pglite-snapshot.version
 
 # Private brain reports — never check these in (per CLAUDE.md privacy rule)
 reports/network-intelligence/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
